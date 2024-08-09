@@ -1,0 +1,9 @@
+gymnasium
+gymnasium[atari, accept-rom-license]
+gymnasium[box2d]
+numpy
+torch
+imageio
+IPython
+imageio-ffmpeg
+torchvision
